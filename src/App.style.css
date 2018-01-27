@@ -1,0 +1,66 @@
+.teamBox {
+  background-color: #172b36;
+  border-bottom: 1px solid blue;
+  border-bottom-color: #305263;
+  list-style: none; 
+  height: 20px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.teamBoxDividerTeams {
+  display: flex;
+  align-items: center;
+  width: 40%;
+}
+
+.teamPosition {
+  color: #c3cca7;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  margin-right: 5%;
+}
+
+.teamImage {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+}
+
+.teamName {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.teamBoxDividerStatistics {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 18%;
+}
+
+.teamPoints {
+  color: #6ca2b0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  width: 5%;
+}
+
+.teamBoxElement{
+  color: #6ca2b0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+}
